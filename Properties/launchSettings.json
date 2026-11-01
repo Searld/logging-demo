@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LoggingFilterDemo": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}

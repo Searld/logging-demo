@@ -1,0 +1,31 @@
+bin/
+obj/
+_ReSharper*/
+
+*.csproj.bak /#*
+*.suo
+*.user
+*.config
+
+*.log
+*.linq
+*.sql
+*.cache
+
+packages/
+*.nuget/
+
+.env
+*.userprefs
+*.suo
+*. локальные.settings
+
+.idea/
+*.vs
+*.vscode
+
+*.bak
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
